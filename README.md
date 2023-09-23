@@ -1,0 +1,2 @@
+# LNGBZ
+LNGBZ公用
